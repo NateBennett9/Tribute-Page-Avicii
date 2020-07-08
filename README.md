@@ -1,2 +1,2 @@
-# Tribute-Page-Tiesto
-FCC Tribute Page for Tiesto
+# Tribute-Page-Avicii
+FCC Tribute Page for Avicii
